@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Kirby and the Forgotten Land",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFYUrHBQ7veMMKnf4tHhJM-99mFKgurV43gg&usqp=CAU",
+    "genre": "action",
+    "price": 539,
+    "quantity": 3,
+    "id": 596,
+    "releaseDate": "25 mars 2022",
+    "description": "När Kirby anländer till ett okänt land och upptäcker att mängder av Waddle Dees kidnappats av The Beast Pack inser han att han kommer ha fullt upp. För att rädda sina vänner ger sig Kirby ut på en resa tillsammans med den nyfikne Elfilin, som han stöter på i denna nya värld."
+  },
+  {
+    "title": "Mario Party Superstar",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FF4cxPxSiXzwS62oMndkDPTotuRGtYZoPw&usqp=CAU",
+    "genre": "plattform",
+    "price": 539,
+    "quantity": 17,
+    "id": 597,
+    "releaseDate": "29 oktober 2021",
+    "description": "Det är dags för en riktig superstjärnsamling fullmatad med olika Mario Party-spelbräden och minispel! Mario Party Superstars har fem klassiska spelbräden från Nintendo 64-eran och en samling på 100 minispel från hela Mario Party-serien och alla spellägen kan dessutom spelas online!"
+  },
+  {
+    "title": "Pokemon Violet",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZFwci21-vUdg48FBxvPhmeWA5kiLUz_Lzw&usqp=CAU",
+    "genre": "RPG",
+    "price": 549,
+    "quantity": 6,
+    "id": 589,
+    "releaseDate": "18 november 2022",
+    "description": "Välkommen till Pokémons öppna värld! Olika städer smälter sömlöst in i vildmarken utan gränser. Du kommer att kunna se Pokémon i denna region på himlen, i haven, i skogarna, på gatorna, överallt! Du kommer att kunna uppleva den sanna glädjen i Pokémon-serien: slåss mot vilda Pokémon för att fånga dem, nu i ett spel med öppen värld som spelare i alla åldrar kan njuta av."
+  },
+  {
+    "title": "Animal Crossing (Switch)",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW3yf3wByGOOVCAy43UBYHodoauHg3HQ9vpw&usqp=CAU",
+    "genre": "äventyr",
+    "price": 599,
+    "quantity": 4,
+    "id": 590,
+    "releaseDate": "20 mars 2020",
+    "description": "Om du blivit trött på det moderna livets stress har Tom Nook en affärsidé som han vet du kommer att älska: hans helt nya, ultra-exklusiva Nook Inc. Deserted Island Getaway-paket! Visst har du mött färgglada karaktärer både här och där. Haft en trevlig tid i staden. Till och med börjat ägna dig åt public service på gamla dar. Men innerst inne, finns det inte en del av dig som bara längtar efter frihet? Då är kanske en lång promenad på en öde ö, där en rikedom av orörd natur väntar, precis vad doktorn ordinerar."
+  },
+  {
+    "title": "Super Mario Odyssey - SMO",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzKcOOGC9E3L9YGnCvgLmoeG5mSaiuh73JLw&usqp=CAU",
+    "genre": "plattform",
+    "price": 599,
+    "quantity": 10,
+    "id": 591,
+    "releaseDate": "27 oktober 2017",
+    "description": "Super Mario Odyssey är fullpackat med hemligheter och överraskningar. Med Marios nya förmågor såsom ”cap throw”, ”cap jump” och ”capture” kommer du få en gameplay-upplevelse du aldrig tidigare har skådat. Gör dig redo att svepas med till märkliga och fantastiska platser långt ifrån Svampriket!"
+  },
+  {
+    "title": "The legend of Zelda: Breath of the wild",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlwMJ1onMeVR-g02Ksh6KUXA6K6p_CbLdRJg&usqp=CAU",
+    "genre": "fantasy",
+    "price": 599,
+    "quantity": 15,
+    "id": 592,
+    "releaseDate": "3 mars 2017",
+    "description": "Gör dig redo för det mest omfattande Zelda-äventyret hittills. Utforska en enorm, öppen värld med oväntade möjligheter och vändningar. Det finns två olika slut i spelet. För att det alternativa slutet ska bli möjligt så måste du uppfylla vissa kriterier..."
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuVAbhZHjEXhONor0c29SBdLraRo6aXD8dKA&usqp=CAU",
+    "genre": "role-play",
+    "price": 599,
+    "quantity": 5,
+    "id": 595,
+    "releaseDate": "10 februari 2023",
+    "description": "Hogwarts Legacy, en öppen värld, en-spelare, actionrollspelande videospel (RPG) i 1800-talets trollkarlvärld. Spelare kommer att uppleva livet som student vid Hogwarts School of Witchcraft and Wizardry som aldrig tidigare, eftersom de lever det oskrivna och ger sig ut på en farlig resa för att avslöja en dold sanning om trollkarlsvärlden."
+  },
+  {
+    "title": "Pokemon Sword GSC",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSooPAiky0ilsforAwMDY9IGrNZ-QLxEYeW4g&usqp=CAU",
+    "genre": "äventyr",
+    "price": 649,
+    "quantity": 10,
+    "id": 593,
+    "releaseDate": "15 november 2019",
+    "description": "I Galar-regionen arbetar Pokémon och människor tillsammans för att bygga upp diverse olika industrier som finns runtomkring regionen. Fans har möjlighet att besöka ett flertal gym spridda över regionen i sin strävan att bli Champion."
+  },
+  {
+    "title": "The legend of Zelda: Tears of the kingdom",
+    "img": "https://assets-prd.ignimgs.com/2022/09/14/zelda-tears-of-the-kingdom-button-2k-1663127818777.jpg",
+    "genre": "fantasy",
+    "price": 699,
+    "quantity": 10,
+    "id": 594,
+    "releaseDate": "12 maj 2023",
+    "description": "Ett episkt äventyr som tar dig över Hyrules land och himmel väntar i The Legend of Zelda: Tears of the Kingdom för Nintendo Switch. I den här uppföljaren till The Legend of Zelda: Breath of the Wild bestämmer du din egen väg genom Hyrules vidsträckta landskap och de mystiska öarna som flyter i himlen ovanför."
+  }
+]
